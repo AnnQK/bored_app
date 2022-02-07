@@ -1,1 +1,4 @@
-# bored_app
+# Bored API exercise  
+### Used:  
+- async/await
+- fetch
